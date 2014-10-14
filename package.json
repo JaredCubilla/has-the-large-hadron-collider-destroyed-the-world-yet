@@ -1,0 +1,17 @@
+{
+	"name": "htlhcdtwy",
+	"version": "1.0.1",
+	"description": "A handy tool for figuring out whether or not the large hadron collider has destroyed the world yet.",
+	"keywords": ["satire", "fun", "hadron"],
+
+	"files": [
+		"index.js",
+		"cli.js"
+	],
+
+	"bin": {
+		"htlhcdtwy": "cli.js"
+	},
+
+	"license": "MIT"
+}
