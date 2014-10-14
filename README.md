@@ -22,6 +22,7 @@ $ npm install --save htlhcdtwy
 
 ```js
 var htlhcdtwy = require("htlhcdtwy");
+console.log(htlhcdtwy());
 ```
 
 ## License
